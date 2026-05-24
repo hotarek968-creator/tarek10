@@ -1,0 +1,6 @@
+{
+  "name": "Mens Grooming BD",
+  "description": "Men's grooming and hair regrowth solution storefront with dynamic orders, admin panel, AI chatbot, and delivery tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
